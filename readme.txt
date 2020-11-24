@@ -1,6 +1,6 @@
 Pour ouvrir le script du fichier php mettre la source du fichier dans l'url
 
-ex: https://www.celluledev.fr/celluletrade/unzipper.php
+ex: https://www.example.fr/celluledev/unzipper.php
 
 
 
